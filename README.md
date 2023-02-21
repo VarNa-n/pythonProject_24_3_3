@@ -1,4 +1,5 @@
 # Task_24_3_3
+
 Задание 24.3.3: реализация запросов GET, POST, DELETE, PUT в https://petstore.swagger.io/
 
 В программе task_24_3_3.py реализованы запросы GET, POST, DELETE, PUT к api https://petstore.swagger.io/ в следующей последовательности:
